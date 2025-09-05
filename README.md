@@ -46,4 +46,4 @@ Designed for ease of use — no SQL knowledge required — and with a touch of v
 1. **Clone this repository**
    ```bash
    git clone https://github.com/The-AD-Journal/music-library-pysql.git
-   cd music-libraru-pysql
+   cd music-library-pysql
